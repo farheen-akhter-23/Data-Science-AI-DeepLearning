@@ -24,7 +24,7 @@ To build an **Image Classifier** using **TensorFlow** that can classify **any im
 
 - #### **Project Link & Demo**
 
-🔗 [Project Repository](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb)
+🔗 [Project Repository](https://github.com/farheen-akhter-23/Data-Science-AI-DeepLearning/blob/main/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb)
 
 ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/f041564f-3a31-4381-ac4a-37508111c7c3)
 
@@ -50,7 +50,7 @@ To detect and segment objects in digital images or real-life scenarios using **Y
 
 - #### **Project Link & Demo**
 
-🔗 [Project Repository](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/YOLOSegmentation/app.py)
+🔗 [Project Repository](https://github.com/farheen-akhter-23/Data-Science-AI-DeepLearning/blob/main/YOLOSegmentation/app.py)
 
 ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/e5450bd6-6c63-489b-a858-b67c481afcd5)
 
@@ -74,7 +74,7 @@ To build an **NLP-based model** that detects **toxic comments** and flags them i
 
 - #### **Project Link & Demo**
 
-🔗 [Project Repository](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/tree/main/Google%20Colab/ToxicityModel-Tokenization)
+🔗 [Project Repository](https://github.com/farheen-akhter-23/Data-Science-AI-DeepLearning/tree/main/ToxicityModel-Tokenization)
 
 🔗 [Live Model URL](https://debc4cae83290afb42.gradio.live/)
 
@@ -101,7 +101,7 @@ To **generate images** using a **Generative Adversarial Network (GAN)** trained 
 
 - #### **Project Link & Demo**
 
-🔗 [Project Repository](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/GAN-Model/GAN_Generative_Adversarial_Network.ipynb)
+🔗 [Project Repository](https://github.com/farheen-akhter-23/Data-Science-AI-DeepLearning/tree/main/GAN-Model)
 
 **Generator - Creating Fake Images**
 
